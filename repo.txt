@@ -1,1 +1,1 @@
-https://github.com/AllisonConsuegra/assignment4.git
+git@github.com:AllisonConsuegra/assignment4.git
